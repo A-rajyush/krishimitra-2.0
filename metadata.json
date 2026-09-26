@@ -1,0 +1,9 @@
+{
+  "name": "KrishiMitra - Smart Farming Portal & Crop Doctor",
+  "description": "Comprehensive agricultural portal for farmers: instant crop disease diagnosis, live APMC mandi prices, agro weather advisories, NPK soil calculator, and multilingual farmer advisory.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
